@@ -6,7 +6,7 @@
 
 ## Working with Markdown
 
-<img width="500" alt="P Key cover art" src="https://user-images.githubusercontent.com/98249521/194963601-752bb18c-841c-4904-b140-014254f7788d.png">
+<img width="1500" alt="P Key cover art" src="https://user-images.githubusercontent.com/98249521/194963601-752bb18c-841c-4904-b140-014254f7788d.png">
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
