@@ -1,7 +1,7 @@
 <sub>℗Key or Pirate Key is a color theme for Visual Studio Code.</sub>
 
 <p align="center">
-<img width="300" alt="P Key icon" src="https://user-images.githubusercontent.com/98249521/194963804-f3e217f2-769d-4563-bd50-3c90e59b1e9a.png">
+<img width="230" alt="P Key icon" src="https://user-images.githubusercontent.com/98249521/194963804-f3e217f2-769d-4563-bd50-3c90e59b1e9a.png">
 </p>
 
 <h1 align="center">℗Key</h1>
