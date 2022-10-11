@@ -48,7 +48,10 @@
 
 &nbsp;
 
+<!--
 <img width="1500" alt="P Key cover art" src="https://user-images.githubusercontent.com/98249521/194963601-752bb18c-841c-4904-b140-014254f7788d.png">
+-->
+<img width="1500" alt="P Key cover art" src="https://user-images.githubusercontent.com/98249521/194971174-dc4c996d-024a-4a4d-8c27-9fc5aa5205a0.png">
 
 <!--
 
