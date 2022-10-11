@@ -1,5 +1,4 @@
-<sub>℗Key or Pirate Key is a color theme<br> for testing <a href="https://github.com/iterative/vscode-dvc
-" target="_blanck">DVC Extension for Visual Studio Code</a> multiple theme compatibility.</sub>
+<sub><a href="https://marketplace.visualstudio.com/items?itemName=maxagin.p-key&ssr=false#overview" target="_blanck">℗Key</a> or Pirate Key is a color theme<br> for testing <a href="https://marketplace.visualstudio.com/items?itemName=Iterative.dvc" target="_blanck">DVC Extension for Visual Studio Code</a> multiple theme compatibility.</sub>
 
 &nbsp;
 
