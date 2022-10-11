@@ -32,6 +32,7 @@
         "focusBorder": "#25252d",
         "scrollbarSlider.background": "#25252d",
         "notifications.background": "#f79c18",
+        "settings.rowHoverBackground": "#dd2108",
 
 	},
 	"tokenColors": [
