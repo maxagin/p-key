@@ -1,8 +1,13 @@
 {
   "name": "p-key",
   "displayName": "℗Key",
-  "description": "Pirate key",
-  "version": "0.0.1",
+  "description": "Pirate Key is a color theme for Visual Studio Code",
+  "version": "1.0.0",
+  "publisher": "maxagin",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/maxagin/p-key"
+  },
   "engines": {
     "vscode": "^1.72.0"
   },
